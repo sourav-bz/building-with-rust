@@ -7,4 +7,4 @@ The intent is to build a better simulation software for robots to play around, l
 As of now, its very open ended quest which is just fueled by my own curiosity to learn and build, hence the name "building-with-rust".\
 The updates are in the updates folder, and it will reflect on my personal website https://souravk.com/projects/building-with-rust.
 
-Once there is a moment of enlightenment or convergence of some theories and discoveries, the updates will move out of this repo into a separate project with it's own name. And the updates will continue to reflect on https://souravk.com/projects/<project-name>.
+Once there is a moment of enlightenment or convergence of some theories and discoveries, the updates will move out of this repo into a separate project with it's own name. And the updates will continue to reflect on `https://souravk.com/projects/<project-name>`.

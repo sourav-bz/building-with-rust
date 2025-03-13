@@ -9,7 +9,8 @@ The updates are in the updates folder, and it will reflect on my personal websit
 
 Once there is a moment of enlightenment or convergence of some theories and discoveries, the updates will move out of this repo into a separate project with it's own name. And the updates will continue to reflect on `https://souravk.com/projects/<project-name>`.
 
-Update: 14th March 2025
+## Update: 14th March 2025
+
 I have moved this project to ["Silly Rust"](https://github.com/sourav-bz/silly-rust), and it's deployed on [sillyrust.com](https://sillyrust.com).\
 The reason to move the project there, is to document all the trivial (silly) questions I encounter while learning Bevy with Rust.\
 It would be posted as individual blogs in the question-and-answer format.
